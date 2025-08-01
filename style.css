@@ -18,6 +18,7 @@ body {
    text-align: center;
    margin-bottom: 2em;
    font-family: "Metal Mania", system-ui;
+   display: flex;
 }
 
 
@@ -56,6 +57,11 @@ body {
    text-align: center;
    align-self: center;
    height: 25px;
+
+}
+
+.imgtopo{
+   align-items: flex-start;
 }
 
 .imagem img {
