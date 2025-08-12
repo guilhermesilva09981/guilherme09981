@@ -53,9 +53,10 @@ body {
 }
 
 .imagem {
-   flex: 1;
+   /* flex: 1; */
    text-align: center;
-   align-self: center;
+   align-items: center;
+   justify-content: last baseline;
    height: 25px;
 
 }
