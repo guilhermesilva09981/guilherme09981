@@ -56,13 +56,10 @@ body {
    flex: 1;
    text-align: center;
    align-self: center;
-   height: 25px;
+   height: 10px;
 
 }
 
-.imgtopo{
-   align-items: flex-start;
-}
 
 .imagem img {
    max-width: 100%;
